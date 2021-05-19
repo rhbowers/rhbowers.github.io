@@ -646,6 +646,21 @@ section {
   position: relative;
 }
 
+.resume .resume-item .resume-first{
+  margin-top: -2px;
+  border-left: 2px solid #d6d9db;
+  position: relative;
+}
+
+.resume .resume-item .resume-first h4{
+  line-height: 18px;
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #3b434a;
+  margin-bottom: 10px;
+}
+
 .resume .resume-item h4 {
   line-height: 18px;
   font-size: 16px;
